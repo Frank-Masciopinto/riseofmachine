@@ -2371,6 +2371,14 @@
           "slug": "agent-qa"
         },
         {
+          "title": "Aident Loadout",
+          "body": "One MCP server and CLI that connects AI agents to apps.",
+          "tag": "Freemium",
+          "url": "https://aident.ai?ref=riseofmachine.com",
+          "date-added": "2026-10-17",
+          "slug": "aident-loadout"
+        },
+        {
           "title": "Amazon Codewhisperer",
           "body": "A code writing assistant developed by Amazon",
           "tag": "Freemium",
