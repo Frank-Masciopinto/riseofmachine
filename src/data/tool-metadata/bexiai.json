@@ -8,12 +8,12 @@
   "slug": "bexiai",
   "related": [
     "humanize",
+    "carejobs-career-tools",
     "sickleaveemail",
     "news-article-gen",
     "newsletter-name-generator",
     "headcanon-generator",
     "detector-writer",
-    "wordstudio",
-    "cowriter"
+    "wordstudio"
   ]
 }

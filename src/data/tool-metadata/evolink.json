@@ -8,12 +8,12 @@
   "slug": "evolink",
   "related": [
     "poe-api",
+    "hiapi",
     "tensorblock-forge",
     "lobe-chat",
     "helix",
     "teachable-machine",
     "ollama-desktop-app",
-    "pythagora-20",
-    "amazon-sagemaker"
+    "pythagora-20"
   ]
 }

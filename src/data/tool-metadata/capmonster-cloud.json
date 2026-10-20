@@ -7,13 +7,13 @@
   "date-added": "2025-06-17",
   "slug": "capmonster-cloud",
   "related": [
+    "hiapi",
     "blaze-sql",
     "stackgen",
     "droidrun",
     "tinq",
-    "elva",
-    "orcareplay",
-    "yylo",
-    "agent-qa"
+    "aident-loadout",
+    "curlshot",
+    "elva"
   ]
 }

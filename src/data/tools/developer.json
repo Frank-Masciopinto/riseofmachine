@@ -8,6 +8,14 @@
     "slug": "agent-qa"
   },
   {
+    "title": "Aident Loadout",
+    "body": "One MCP server and CLI that connects AI agents to apps.",
+    "tag": "Freemium",
+    "url": "https://aident.ai?ref=riseofmachine.com",
+    "date-added": "2026-10-17",
+    "slug": "aident-loadout"
+  },
+  {
     "title": "Amazon Codewhisperer",
     "body": "A code writing assistant developed by Amazon",
     "tag": "Freemium",
@@ -144,6 +152,14 @@
     "slug": "create-apidev"
   },
   {
+    "title": "CurlShot",
+    "body": "Screenshot API and MCP server that lets AI agents see web pages.",
+    "tag": "Freemium",
+    "url": "https://curlshot.com/?ref=riseofmachine.com",
+    "date-added": "2026-10-16",
+    "slug": "curlshot"
+  },
+  {
     "title": "Cursor MCP",
     "body": "Find the best MCP Servers for Cursor.",
     "tag": "Free",
@@ -206,6 +222,14 @@
     "url": "https://tryhelix.ai/?ref=riseofmachine.com",
     "date-added": "2023-12-26",
     "slug": "helix"
+  },
+  {
+    "title": "HiAPI",
+    "body": "Unified APIs for generative AI models.",
+    "tag": "Paid",
+    "url": "https://www.hiapi.ai/?ref=riseofmachine.com",
+    "date-added": "2026-10-20",
+    "slug": "hiapi"
   },
   {
     "title": "KitOps",
