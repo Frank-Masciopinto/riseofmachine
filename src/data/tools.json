@@ -6356,6 +6356,14 @@
           "slug": "pixiebrix"
         },
         {
+          "title": "PlaceCall",
+          "body": "Calls US businesses on your behalf.",
+          "tag": "Paid",
+          "url": "https://voygr.tech/placecall/?ref=riseofmachine.com",
+          "date-added": "2026-10-20",
+          "slug": "placecall"
+        },
+        {
           "title": "Plus Docs",
           "body": "Generate & edit presentations.",
           "tag": "Freemium",
