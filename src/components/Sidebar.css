@@ -260,7 +260,7 @@
         position: fixed;
         left: 0;
         top: 0;
-        width: var(--spacing-18) !important;
+        width: 100vw !important;
         z-index: 100;
         transform: translateX(-100%);
         transition: transform var(--duration-medium) var(--ease-smooth-out);

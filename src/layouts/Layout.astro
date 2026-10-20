@@ -303,6 +303,11 @@ const resolvedTwitterCard = twitterCard ?? "summary_large_image";
         overflow-y: auto;
         position: relative;
     }
+    @media (max-width: 48rem) {
+        .app-content {
+            margin: var(--spacing-00);
+        }
+    }
     .sidebar-backdrop {
         display: none;
     }
