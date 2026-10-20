@@ -10,10 +10,10 @@
     "doculator",
     "context",
     "google-translate",
+    "neverapply",
+    "placecall",
+    "meteor-ai",
     "screenpipe",
-    "orkas",
-    "bankingnewsai",
-    "onetwo-resume",
-    "converge-ai"
+    "orkas"
   ]
 }

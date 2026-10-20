@@ -8,12 +8,12 @@
   "slug": "sweep",
   "related": [
     "zen-agents",
+    "aident-loadout",
+    "curlshot",
     "elva",
     "cactal",
     "chartcraft",
     "screenshot-to-code",
-    "director",
-    "nora",
-    "orchids"
+    "director"
   ]
 }

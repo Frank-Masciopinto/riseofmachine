@@ -5,7 +5,7 @@
   },
   "audio": {
     "title": "Audio",
-    "count": 47
+    "count": 48
   },
   "code": {
     "title": "Code",
@@ -13,7 +13,7 @@
   },
   "copywriting": {
     "title": "Copywriting",
-    "count": 69
+    "count": 70
   },
   "design": {
     "title": "Design",
@@ -21,7 +21,7 @@
   },
   "developer": {
     "title": "Developer",
-    "count": 87
+    "count": 90
   },
   "education": {
     "title": "Education",
@@ -53,7 +53,7 @@
   },
   "music": {
     "title": "Music",
-    "count": 30
+    "count": 31
   },
   "nocode": {
     "title": "No Code",
@@ -65,7 +65,7 @@
   },
   "productivity": {
     "title": "Productivity",
-    "count": 112
+    "count": 115
   },
   "prompts": {
     "title": "Prompts",
@@ -77,11 +77,11 @@
   },
   "seo": {
     "title": "SEO",
-    "count": 22
+    "count": 23
   },
   "social": {
     "title": "Social Media",
-    "count": 27
+    "count": 28
   },
   "video": {
     "title": "Video",

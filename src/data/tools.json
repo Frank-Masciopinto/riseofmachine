@@ -1379,7 +1379,8 @@
           "body": "Free career writing tools for nurses.",
           "tag": "Free",
           "url": "https://carejobs.now/tools?ref=riseofmachine.com",
-          "date-added": "2026-10-18"
+          "date-added": "2026-10-18",
+          "slug": "carejobs-career-tools"
         },
         {
           "title": "Closerscopy",
@@ -6240,7 +6241,8 @@
           "body": "AI job search and auto-apply agent.",
           "tag": "Freemium",
           "url": "https://neverapply.co/?ref=riseofmachine.com",
-          "date-added": "2026-10-20"
+          "date-added": "2026-10-20",
+          "slug": "neverapply"
         },
         {
           "title": "Noiz",

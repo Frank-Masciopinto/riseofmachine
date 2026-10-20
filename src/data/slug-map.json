@@ -428,6 +428,9 @@
   "wondercraft": [
     "audio"
   ],
+  "yap": [
+    "audio"
+  ],
   "askcodebase": [
     "code"
   ],
@@ -501,6 +504,9 @@
     "copywriting"
   ],
   "capitol": [
+    "copywriting"
+  ],
+  "carejobs-career-tools": [
     "copywriting"
   ],
   "closerscopy": [
@@ -875,6 +881,9 @@
   "agent-qa": [
     "developer"
   ],
+  "aident-loadout": [
+    "developer"
+  ],
   "amazon-codewhisperer": [
     "developer"
   ],
@@ -926,6 +935,9 @@
   "create-apidev": [
     "developer"
   ],
+  "curlshot": [
+    "developer"
+  ],
   "cursor-mcp": [
     "developer"
   ],
@@ -948,6 +960,9 @@
     "developer"
   ],
   "helix": [
+    "developer"
+  ],
+  "hiapi": [
     "developer"
   ],
   "kitops": [
@@ -1730,6 +1745,9 @@
   "wondera": [
     "music"
   ],
+  "words-into-music": [
+    "music"
+  ],
   "ai-rapper": [
     "nocode"
   ],
@@ -2270,6 +2288,9 @@
   "mem": [
     "productivity"
   ],
+  "meteor-ai": [
+    "productivity"
+  ],
   "mindmap-extension": [
     "productivity"
   ],
@@ -2277,6 +2298,9 @@
     "productivity"
   ],
   "multion": [
+    "productivity"
+  ],
+  "neverapply": [
     "productivity"
   ],
   "noiz": [
@@ -2325,6 +2349,9 @@
     "productivity"
   ],
   "pixiebrix": [
+    "productivity"
+  ],
+  "placecall": [
     "productivity"
   ],
   "plus-docs": [
@@ -2600,6 +2627,9 @@
   "aitdk": [
     "seo"
   ],
+  "altorank": [
+    "seo"
+  ],
   "blawgy": [
     "seo"
   ],
@@ -2688,6 +2718,9 @@
     "social"
   ],
   "liseller": [
+    "social"
+  ],
+  "maeve-social": [
     "social"
   ],
   "meme-generator": [

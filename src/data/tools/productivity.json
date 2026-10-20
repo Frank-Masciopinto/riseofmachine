@@ -440,6 +440,13 @@
     "slug": "mem"
   },
   {
+    "title": "Meteor AI",
+    "body": "AI agent automates tailored job applications.",
+    "url": "https://usemeteor.ai/?ref=riseofmachine.com",
+    "date-added": "2026-10-14",
+    "slug": "meteor-ai"
+  },
+  {
     "title": "Mindmap Extension",
     "body": "Web pages, PDFs, YT videos to mind maps.",
     "tag": "Freemium",
@@ -462,6 +469,14 @@
     "url": "https://www.multion.ai/?ref=riseofmachine.com",
     "date-added": "2024-07-16",
     "slug": "multion"
+  },
+  {
+    "title": "NeverApply",
+    "body": "AI job search and auto-apply agent.",
+    "tag": "Freemium",
+    "url": "https://neverapply.co/?ref=riseofmachine.com",
+    "date-added": "2026-10-20",
+    "slug": "neverapply"
   },
   {
     "title": "Noiz",
@@ -590,6 +605,14 @@
     "url": "https://www.pixiebrix.com/?ref=riseofmachine.com",
     "date-added": "2025-06-06",
     "slug": "pixiebrix"
+  },
+  {
+    "title": "PlaceCall",
+    "body": "Calls US businesses on your behalf.",
+    "tag": "Paid",
+    "url": "https://voygr.tech/placecall/?ref=riseofmachine.com",
+    "date-added": "2026-10-20",
+    "slug": "placecall"
   },
   {
     "title": "Plus Docs",
