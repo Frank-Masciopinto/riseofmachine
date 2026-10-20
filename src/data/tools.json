@@ -2602,6 +2602,14 @@
           "slug": "helix"
         },
         {
+          "title": "HiAPI",
+          "body": "Unified APIs for generative AI models.",
+          "tag": "Paid",
+          "url": "https://www.hiapi.ai/?ref=riseofmachine.com",
+          "date-added": "2026-10-20",
+          "slug": "hiapi"
+        },
+        {
           "title": "KitOps",
           "body": "Packaging for AI/ML projects.",
           "tag": "Free",
